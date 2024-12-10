@@ -84,8 +84,8 @@ const GridItems: GridItemInterface[] = [
   {
     layout: "2x1",
     type: "project",
-    title: "Fabricação de Baixos Vintage e Custom",
-    icon: "gem",
+    title: "Acabamentos Exclusivos",
+    icon: "guitar",
     color: "#090707",
     backgroundColor: {
       light: "#e6f3ff",
