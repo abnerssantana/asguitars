@@ -19,8 +19,8 @@ module.exports = {
           dark: "#859F3D",
         },
         border: {
-          light: "#31511E",
-          dark: "#31511E",
+          light: "rgb(218 230 174)",
+          dark: "#1A1A19",
         },
       },
       fontFamily: {
