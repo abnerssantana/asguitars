@@ -96,15 +96,15 @@ const GridItems: GridItemInterface[] = [
     layout: "2x7",
     type: "equipment",
     title:
-      "Corações que encantam e completam qualquer look ❤️✨",
-      image: "1.jpg",
+      "",
+    images: ["/verde/1.jpg", "/verde/2.jpg", "/verde/3.jpg", "/verde/4.jpg", "/verde/5.jpg", "/verde/6.jpg"],
   },
   {
     layout: "2x7",
     type: "equipment",
     title:
-      "Peças leves, sofisticadas e feitas para brilhar junto com você.",
-      image: "3.jpg",
+      "Jazzbass 5 cordas Imbuia Tigrada Detalhes.",
+    images: ["1.jpg", "2.jpg", "3.jpg"],
   },
 ];
 
