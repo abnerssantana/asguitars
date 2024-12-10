@@ -11,16 +11,16 @@ module.exports = {
       colors: {
         primary: "rgb(187 128 88)",
         background: {
-          light: "#EDE0D4",
-          dark: "#B08968",
+          light: "#EAE0D5",
+          dark: "#0A0908",
         },
         surface: {
-          light: "#f7f7f8",
-          dark: "#111113",
+          light: "#C6AC8F",
+          dark: "#22333B",
         },
         border: {
-          light: "#E6CCB2",
-          dark: "#9C6644",
+          light: "#5E503F",
+          dark: "#EAE0D5",
         },
       },
       fontFamily: {

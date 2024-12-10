@@ -77,7 +77,7 @@ const GridItems: GridItemInterface[] = [
     description:
       "Acompanhe meu trabalho no Instagram para ver mais projetos e atualizações.",
     buttonTitle: "Seguidores",
-    buttonLink: "https://www.instagram.com/usetalatay/",
+    buttonLink: "https://www.instagram.com/as_guitars/",
     buttonSecondaryText: "909",
     color: "rgba(104, 60, 190, 1)",
     backgroundColor: {
@@ -109,9 +109,9 @@ const GridItems: GridItemInterface[] = [
 ];
 
 export const siteConfig = {
-  creator: "TALATAY",
-  title: "Semijoias",
-  bio: "Evidencie a sua elegância com nossas semijoias ✨",
+  creator: "AS Guitars",
+  title: "Fabricação de Baixos",
+  bio: "Especialistas na arte de criar baixos artesanais com alma vintage e personalidade única. Na AS Guitars, cada instrumento é uma obra-prima que combina a nostalgia dos clássicos com a inovação do design contemporâneo.",
   location: "São José Rio Preto - SP",
   locationLink:
     "https://www.google.com/maps/place/São+José+do+Rio+Preto+-+SP/data=!4m2!3m1!1s0x94bc52ce6910005f:0xb39d5c0e3b8c5675?sa=X&ved=1t:242&ictx=111",

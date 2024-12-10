@@ -39,9 +39,9 @@ const sfPRO = localFont({
   variable: "--font-sfpro",
 });
 
-const siteUrl = "https://talatay.vercel.app";
-const description = "Evidencie a sua elegância com nossas semijoias ✨";
-const title = "TALATAY - Semijoias";
+const siteUrl = "https://vercel.app";
+const description = "Fabricação de Baixos Vintage e Custom 🎸";
+const title = "AS Guitars";
 
 export const metadata: Metadata = {
   title,
@@ -57,7 +57,7 @@ export const metadata: Metadata = {
         url: '/shared.png',
         width: 1200,
         height: 630,
-        alt: 'TALATAY | Semijoias',
+        alt: 'AS Guitars',
       },
     ],
     locale: 'pt_BR',
