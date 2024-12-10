@@ -9,18 +9,18 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: "rgb(187 128 88)",
+        primary: "#31511E",
         background: {
-          light: "#EAE0D5",
-          dark: "#0A0908",
+          light: "#F6FCDF",
+          dark: "#1A1A19",
         },
         surface: {
-          light: "#C6AC8F",
-          dark: "#22333B",
+          light: "#859F3D",
+          dark: "#859F3D",
         },
         border: {
-          light: "#5E503F",
-          dark: "#EAE0D5",
+          light: "#31511E",
+          dark: "#31511E",
         },
       },
       fontFamily: {

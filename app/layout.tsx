@@ -40,8 +40,8 @@ const sfPRO = localFont({
 });
 
 const siteUrl = "https://vercel.app";
-const description = "Fabricação de Baixos Vintage e Custom 🎸";
-const title = "AS Guitars";
+const description = "Especialistas na arte de criar baixos artesanais com alma vintage e personalidade única. Na AS Guitars, cada instrumento é uma obra-prima que combina a nostalgia dos clássicos com a inovação do design contemporâneo.";
+const title = "AS Guitars - Fabricação de Baixos";
 
 export const metadata: Metadata = {
   title,
