@@ -46,7 +46,7 @@ const GridItems: GridItemInterface[] = [
     buttonSecondaryText: "",
   },
   {
-    layout: "2x4",
+    layout: "2x7",
     type: "equipment",
     title:
       "Essa combinação de verde com dourado tem seu charme.",
@@ -93,14 +93,14 @@ const GridItems: GridItemInterface[] = [
     },
   },
   {
-    layout: "2x4",
+    layout: "2x7",
     type: "equipment",
     title:
       "Corações que encantam e completam qualquer look ❤️✨",
       image: "1.jpg",
   },
   {
-    layout: "2x4",
+    layout: "2x7",
     type: "equipment",
     title:
       "Peças leves, sofisticadas e feitas para brilhar junto com você.",
