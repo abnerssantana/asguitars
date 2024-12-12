@@ -40,9 +40,9 @@ const GridItems: GridItemInterface[] = [
     icon: "whatsapp",
     description: "Entre em contato agora e vamos criar juntos o instrumento perfeito para você.",
     color: "#25d366",
-    buttonTitle: "17 99900000",
+    buttonTitle: "17 99743-3628",
     buttonLink:
-      "https://api.whatsapp.com/send?phone=5517991904873&text=Oii,%20gostaria%20de%20saber%20mais%20sobre%20as%20semijoias.",
+      "https://api.whatsapp.com/send?phone=5517997433628.",
     buttonSecondaryText: "",
   },
   {
@@ -93,14 +93,21 @@ const GridItems: GridItemInterface[] = [
     },
   },
   {
-    layout: "2x7",
+    layout: "1x6",
+    type: "equipment",
+    title:
+      "",
+    images: ["/blackrelic/1.jpg", "/blackrelic/2.jpg", "/blackrelic/3.jpg", "/blackrelic/4.jpg", "/blackrelic/5.jpg", "/blackrelic/6.jpg"],
+  },
+  {
+    layout: "1x6",
     type: "equipment",
     title:
       "",
     images: ["/verde/1.jpg", "/verde/2.jpg", "/verde/3.jpg", "/verde/4.jpg", "/verde/5.jpg", "/verde/6.jpg"],
   },
   {
-    layout: "2x7",
+    layout: "1x6",
     type: "equipment",
     title:
       "Jazzbass 5 cordas Imbuia Tigrada Detalhes.",
