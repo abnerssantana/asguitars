@@ -97,7 +97,14 @@ const GridItems: GridItemInterface[] = [
     type: "equipment",
     title:
       "",
-    images: ["/blackrelic/1.jpg", "/blackrelic/2.jpg", "/blackrelic/3.jpg", "/blackrelic/4.jpg", "/blackrelic/5.jpg", "/blackrelic/6.jpg"],
+    images: ["/blackrelic/1.jpg", "/blackrelic/2.jpg", "/blackrelic/3.jpg", "/blackrelic/4.jpg", "/blackrelic/5.jpg"],
+  },
+  {
+    layout: "1x6",
+    type: "equipment",
+    title:
+      "Jazzbass 5 cordas Imbuia Tigrada Detalhes.",
+    images: ["1.jpg", "2.jpg", "3.jpg"],
   },
   {
     layout: "1x6",
