@@ -96,15 +96,15 @@ const GridItems: GridItemInterface[] = [
     layout: "1x6",
     type: "equipment",
     title:
-      "",
+      "Precision Black Relic",
     images: ["/blackrelic/1.jpg", "/blackrelic/2.jpg", "/blackrelic/3.jpg", "/blackrelic/4.jpg", "/blackrelic/5.jpg"],
   },
   {
     layout: "1x6",
     type: "equipment",
     title:
-      "Jazzbass 5 cordas Imbuia Tigrada Detalhes.",
-    images: ["1.jpg", "2.jpg", "3.jpg"],
+      "Mustang semi acústico.",
+    images: ["/mustang/1.jpg", "/mustang/2.jpg", "/mustang/3.jpg", "/mustang/4.jpg", "/mustang/5.jpg", "/mustang/6.jpg"],
   },
   {
     layout: "1x6",
