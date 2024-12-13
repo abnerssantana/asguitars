@@ -56,13 +56,13 @@ const GridItems: GridItemInterface[] = [
     layout: "1x6",
     type: "equipment",
     title:
-      "",
+      "Mustang Dourado, pronto pra fazer história. Madeira selecionada e acabamento impecável.",
     image: "/bass/0.jpg",
   },
   {
     layout: "1x6",
     type: "equipment",
-    title: "Para a galera que me pede o som desse baixo.",
+    title: "Obra de arte feita para verdadeiros apaixonados por música.",
     video: "/1.mp4",
   },
   {
@@ -111,13 +111,13 @@ const GridItems: GridItemInterface[] = [
     type: "equipment",
     title:
       "Mustang Dourado",
-    images: ["/bass/1.jpg", "/bass/2.jpg", "/bass/3.jpg", "/bass/4.jpg", "/bass/5.jpg", "/bass/6.jpg"],
+    images: ["/bass/1.jpg", "/bass/2.jpg", "/bass/3.jpg", "/bass/4.jpg", "/bass/0.jpg"],
   },
   {
     layout: "1x6",
     type: "equipment",
     title:
-      "Jazzbass 5 cordas Imbuia Tigrada",
+      "Jazzbass Imbuia Tigrada",
     images: ["1.jpg", "2.jpg", "3.jpg"],
   },
 ];
@@ -129,6 +129,6 @@ export const siteConfig = {
   location: "São José Rio Preto - SP",
   locationLink:
     "https://www.google.com/maps/place/São+José+do+Rio+Preto+-+SP/data=!4m2!3m1!1s0x94bc52ce6910005f:0xb39d5c0e3b8c5675?sa=X&ved=1t:242&ictx=111",
-  email: "maurobrumato@gmail.com",
+  email: "asguitars@gmail.com",
   items: GridItems,
 } as const;
