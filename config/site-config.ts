@@ -56,7 +56,7 @@ const GridItems: GridItemInterface[] = [
     layout: "1x6",
     type: "equipment",
     title:
-      "Mustang Dourado, pronto pra fazer história. Madeira selecionada e acabamento impecável.",
+      "Mustang Dourado, pronto pra fazer história. Acabamento impecável.",
     image: "/bass/0.jpg",
   },
   {
