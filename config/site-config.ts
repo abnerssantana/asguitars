@@ -56,8 +56,8 @@ const GridItems: GridItemInterface[] = [
     layout: "1x6",
     type: "equipment",
     title:
-      "Jazzbass 5 cordas com esse lindo Top de Imbuia Tigrada",
-    image: "1.jpg",
+      "",
+    image: "/bass/0.jpg",
   },
   {
     layout: "1x6",
@@ -103,21 +103,21 @@ const GridItems: GridItemInterface[] = [
     layout: "1x6",
     type: "equipment",
     title:
-      "Mustang semi acústico.",
+      "Mustang Semi Acústico.",
     images: ["/mustang/1.jpg", "/mustang/2.jpg", "/mustang/3.jpg", "/mustang/4.jpg", "/mustang/5.jpg", "/mustang/6.jpg"],
   },
   {
     layout: "1x6",
     type: "equipment",
     title:
-      "",
-    images: ["/verde/1.jpg", "/verde/2.jpg", "/verde/3.jpg", "/verde/4.jpg", "/verde/5.jpg", "/verde/6.jpg"],
+      "Mustang Dourado",
+    images: ["/bass/1.jpg", "/bass/2.jpg", "/bass/3.jpg", "/bass/4.jpg", "/bass/5.jpg", "/bass/6.jpg"],
   },
   {
     layout: "1x6",
     type: "equipment",
     title:
-      "Jazzbass 5 cordas Imbuia Tigrada Detalhes.",
+      "Jazzbass 5 cordas Imbuia Tigrada",
     images: ["1.jpg", "2.jpg", "3.jpg"],
   },
 ];
